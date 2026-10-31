@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Snack\'n\'Stretch</string>
+    <string name="caption">Keep you fueled and flexible with quick\nsnack \u0026 stretch reminders</string>
+    <string name="work_title">Work (min)</string>
+    <string name="break_title">Break (min)</string>
+    <string name="timer_15">15</string>
+    <string name="timer_30">30</string>
+    <string name="timer_45">45</string>
+    <string name="timer_60">60</string>
+    <string name="constraints">Constraints</string>
+    <string name="schedule_session">Schedule Session</string>
+    <string name="cancel_session">Cancel Session</string>
+    <string name="battery_txt">Battery Not Low</string>
+    <string name="charging_txt">Only When Charging</string>
+    <string name="work_notif_txt">Time for a break!</string>
+    <string name="break_notif_txt">Break over - back to work!</string>
 </resources>
